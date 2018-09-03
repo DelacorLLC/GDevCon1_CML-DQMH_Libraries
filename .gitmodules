@@ -7,3 +7,6 @@
 [submodule "Logger"]
 	path = Logger
 	url = https://github.com/DelacorLLC/GDevCon1_CML-DQMH_Logger.git
+[submodule "Acquisition"]
+	path = Acquisition
+	url = https://github.com/DelacorLLC/GDevCon1_CML-DQMH_Acquisition.git
