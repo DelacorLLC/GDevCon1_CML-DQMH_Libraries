@@ -1,0 +1,3 @@
+[submodule "CML Shared"]
+	path = CML Shared
+	url = https://github.com/DelacorLLC/GDevCon1_CML-DQMH_Shared.git
