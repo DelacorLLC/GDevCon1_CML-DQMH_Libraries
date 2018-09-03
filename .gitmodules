@@ -1,3 +1,6 @@
 [submodule "CML Shared"]
 	path = CML Shared
 	url = https://github.com/DelacorLLC/GDevCon1_CML-DQMH_Shared.git
+[submodule "Settings Editor"]
+	path = Settings Editor
+	url = https://github.com/DelacorLLC/GDevCon1_CML-DQMH_Settings_Editor.git
