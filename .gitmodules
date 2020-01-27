@@ -13,3 +13,6 @@
 [submodule "CML UI"]
 	path = CML UI
 	url = https://github.com/DelacorLLC/GDevCon1_CML-DQMH_CML-UI.git
+[submodule "Launcher Support"]
+	path = Launcher Support
+	url = https://github.com/DelacorLLC/GDevCon1_Launcher-Support.git
